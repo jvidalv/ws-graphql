@@ -4,8 +4,7 @@
 
 ```bash
 cd server
-node server.mjs
-node ws.mjs
+yarn start
 ```
 
 This will start a GraphQL server on 4000 and WS on 4001.

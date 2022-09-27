@@ -9,4 +9,4 @@ const server = new WebSocketServer({
 
 useServer({ schema }, server);
 
-console.log('Listening to port 4001');
+console.log('Running a GraphQL API WebSocket server at ws://localhost:4001/graphql ✅');
